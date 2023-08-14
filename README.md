@@ -16,3 +16,7 @@ Here is the dataset of netflix userbase, Which has used worldwide. The stakehold
 Create tables for all the visualizations. Make these visualizations and create an interactive report to show the stakeholders.
 ## Dasbord
 
+![netflix1](https://github.com/abyjohn1708/NETFLIX_userbase/assets/133591355/19324526-661d-4800-9767-35fcb9d0918c)
+![netflix frontpage](https://github.com/abyjohn1708/NETFLIX_userbase/assets/133591355/f3181f1e-67e4-4e05-9e72-b41d91a52bdf)
+![netflix dasboard](https://github.com/abyjohn1708/NETFLIX_userbase/assets/133591355/2653660b-1c1a-45a7-8f14-d12edb560447)
+
