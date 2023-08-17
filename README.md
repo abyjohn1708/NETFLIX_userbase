@@ -14,7 +14,7 @@ Microsoft PowerBi
 ## Problem statement
 Here is the dataset of netflix userbase, Which has used worldwide. The stakeholders require the detailed report on the revenue gernerated. Perform the basic data cleaning Segment the visuals using country, revenue, device, subcription type Analyze the data by visualizing the diven dataset.
 Create tables for all the visualizations. Make these visualizations and create an interactive report to show the stakeholders.
-## Dasbord
+## Dashbord
 
 ![netflix1](https://github.com/abyjohn1708/NETFLIX_userbase/assets/133591355/19324526-661d-4800-9767-35fcb9d0918c)
 ![netflix frontpage](https://github.com/abyjohn1708/NETFLIX_userbase/assets/133591355/f3181f1e-67e4-4e05-9e72-b41d91a52bdf)
